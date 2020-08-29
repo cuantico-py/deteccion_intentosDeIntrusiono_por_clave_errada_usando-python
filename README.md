@@ -6,5 +6,5 @@ Un administrador de la plataforma Linux nos arroja el archivo " failed.txt" (VER
 
 se debe determinar cual fue la dirección IP que más intentos de autenticación fallida generó contra el servidor  y cual fue su total de intentos
 
-se genera un codio que lea el archivo y haga el procesamiento de la data 
+se genera un codigo que lea el archivo y haga el procesamiento de la data 
 comentarios en el ejecutable 
